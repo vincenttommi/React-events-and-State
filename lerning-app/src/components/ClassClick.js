@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 
+
+///handling a event in  class component 
 class ClassClick extends Component {
 
 clickHandler(){
